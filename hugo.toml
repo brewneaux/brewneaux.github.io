@@ -1,0 +1,21 @@
+theme = 'rocinante'
+baseURL = 'https://brewneaux.github.io/'
+languageCode = 'en-us'
+title = 'Brewneaux'
+Paginate = 5
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  mainSections = ["posts"]
+  email = "jon@brewneaux.com"
+  favicon = "icons/favicon.png"
+  customCSS = ["/catppuccin-frappe.css", "fonts.css", "custom.css"]
+  github = "brewneaux"
+  linkedin = "jonathan-bruno-05679154"
+  rss = false
+  
