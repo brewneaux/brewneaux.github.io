@@ -1,8 +1,8 @@
 ---
 title: "Git Workflows"
-date: 2023-12-10T09:36:59-06:00
+date: 2023-12-14T09:36:59-06:00
 tags: []
-draft: true
+draft: false
 ---
 
 Git Workflows are so highly talked about on the internet - I would guess there are tens of thousands of blog posts, articles, and discussion threads on the topic.  Everyone seems to have their own opinions on why your workflow is slowing you down or why its problematic - but no one talks about the fact that, like most tools, it needs to work for _you_ and _your team_.  I feel the same way about agile and scrum - so many people like to tell you how to do it, and like to tell you that your way is bad, but that way might not work for you at all.
