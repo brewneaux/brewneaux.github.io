@@ -1,6 +1,6 @@
 ---
 title: "Git Workflows"
-date: 2023-12-14T09:36:59-06:00
+date: 2023-12-14T07:36:59-06:00
 tags: []
 draft: false
 ---
